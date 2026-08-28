@@ -1,0 +1,6 @@
+{
+  "name": "UASA 小学科学互动探案实验室",
+  "description": "基于马来西亚小学科学考题（Bahagian B & C）的互动探究实验室，包含太阳系公转竞速、光合作用方程式拼图、植物繁殖连线探案、神奇石蕊试纸变色实验及X光营养透视扫描仪五大互动模块。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
